@@ -1,0 +1,9 @@
+ProductID,ProductName,Category,UnitPrice
+101,Notebook Pro,Eletrônicos,4200
+102,Monitor 24,Eletrônicos,950
+103,Teclado Mecânico,Periféricos,420
+104,Mouse Sem Fio,Periféricos,180
+105,Headset,Periféricos,310
+106,Webcam HD,Periféricos,260
+107,Cadeira Office,Móveis,1250
+108,Suporte Notebook,Acessórios,190
